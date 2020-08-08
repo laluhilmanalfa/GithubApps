@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GitHubApps</string>
+    <string name="hint_search_user_github">Search Github users</string>
+    <string name="no_user_found">No User Found</string>
+</resources>
